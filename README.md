@@ -1,7 +1,7 @@
 
-# word-rnn
+# CMS RNN
 
-This is a fork of Andrej Karpathy's wonderful [char-rnn](https://github.com/karpathy/char-rnn), modified to 
+This is a fork of [word-rnn](https://github.com/larspars/word-rnn), which itself is a fork of Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn), modified to 
 
 1. be able to predict word-by-word
 2. use pre-trained word vectors to represent input words
